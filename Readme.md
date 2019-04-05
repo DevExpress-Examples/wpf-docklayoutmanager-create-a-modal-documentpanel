@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainWindow.xaml](./CS/Example1/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/Example1/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/Example1/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/Example1/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/Example1/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/Example1/MainWindow.xaml.vb))
 * **[ModalHelper.cs](./CS/Example1/ModalHelper.cs) (VB: [ModalHelper.vb](./VB/Example1/ModalHelper.vb))**
 <!-- default file list end -->
 # How to create a modal DocumentPanel in DockLayoutManager 
